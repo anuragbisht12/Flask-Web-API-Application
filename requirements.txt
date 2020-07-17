@@ -1,0 +1,6 @@
+flask_wtf
+wtforms
+flask_sqlalchemy
+flask
+forms
+os
